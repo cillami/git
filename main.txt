@@ -2,3 +2,5 @@ En ny fil med text
 This is a master edit
 This is a branch edit
 Edits never end
+This is a branch branch edit
+
